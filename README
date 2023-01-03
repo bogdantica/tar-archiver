@@ -1,5 +1,19 @@
-TAR Archiver
-MIEILA Eduard-Robert
+#TAR Archiver
+
+## Descriere implementare
+Pentru a algoritmul de arhivare xxxxxx ....... am folosit etc.....
+
+
+## How to use
+```
+# Build and compile
+$ make gcc -Wall -c -o main.o main
+
+# Usage
+$ tar file.txt file.tar
+```
+
+## Cerinta challange
 
 Pe parcurs, pentru transformarile valorilor numerice din baza 10 in baza 8 si invers vom folosi functiile DtoO, UItoO, OtoUI, LUtoO.
 
