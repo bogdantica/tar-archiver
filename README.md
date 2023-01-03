@@ -16,7 +16,7 @@ $ tar file.txt file.tar
 ## Cerinta challange
 
 Pe parcurs, pentru transformarile valorilor numerice din baza 10 in baza 8 si invers vom folosi functiile DtoO, UItoO, OtoUI, LUtoO.
-
+```
 Task 0:
 = Vom citi linia de instructiuni folosind comanda readCommand. 
 = Aceasta va completa variabilele command si param1 respectiv param2, daca va fi cazul.
@@ -81,4 +81,4 @@ Task 3:
 	* In cazul in care acesta nu va fi gasit, vom afisa mesajul corespunzator.
 	* Cand vom gasi headerul, vom transforma valoarea din campul SIZE in baza 10.
 		Avand in vedere ca am citit un intreg block de 512 bytes, ne vom afla acum la inceputul fisierului corespunzator headerului, prin urmare vom citi byte cu byte din arhiva si vom scrie intr-un nou fisier cu numele corespunzator, pana cand vom atinge dimensiunea fisierului.
-	
+```
