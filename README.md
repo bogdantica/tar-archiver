@@ -1,4 +1,4 @@
-#TAR Archiver
+# TAR Archiver
 
 ## Descriere implementare
 Pentru a algoritmul de arhivare xxxxxx ....... am folosit etc.....
